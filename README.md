@@ -35,7 +35,7 @@ $ ssh dl-server
 ```
 $ ssh bostonai@10.7.1.150
 $ sudo adduser user<#number>
-$ sudo usermod -aG sudo user<#number>
+
 $ sudo usermod -aG docker user<#number>
 ```
 
